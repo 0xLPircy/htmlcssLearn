@@ -1,0 +1,12 @@
+variables has $
+$primary-color: blue
+nesting
+
+multiple css makes multiple req but sass does one
+
+inheritence, create a base style, refer it and change specifics
+
+we can do operators and condditionals, if else
+@if condition==1 {
+    things
+}
